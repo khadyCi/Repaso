@@ -1,0 +1,63 @@
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script&family=Indie+Flower&family=Lato&family=Open+Sans&family=Oswald&display=swap');
+body{
+    background-color:#819ca9;
+}
+.header{
+    background-color: #00e575;
+    text-align: center;
+    padding-top: 1%;
+    padding-bottom: 1%;
+    font-family: 'Oswald', sans-serif;
+}
+.EstiloGenerar{
+    background-color: #00e575;
+    text-align: center;
+    padding-top: 1%;
+    padding-bottom: 1%;
+    font-family: 'Oswald', sans-serif;
+
+}
+section{
+    background-color: #00e575; 
+    margin-right: 50%;
+   
+}
+section h3{
+    padding-left: 5%;
+    padding-top: 5%;
+    font-family: 'Oswald', sans-serif;
+    
+}
+
+section p{
+    text-align: justify;
+    padding-right: 5%;
+    padding-left: 5%;
+    padding-bottom: 5%;
+    font-family: 'Lato', sans-serif;
+    
+}
+aside{
+    background-color: #00e575;
+    font-family: 'Oswald', sans-serif;
+    display: inline-block;
+      
+}
+aside p{
+    text-align: justify;
+    padding-right: 5%;
+    padding-left: 5%;
+    font-family: 'Lato', sans-serif;
+    
+}
+aside{
+    float: right;
+    width: 49%;
+    padding-top:23%;
+    padding-bottom: 22%;
+    text-align: center;
+    
+}
+main{
+    text-align: left;
+}

@@ -1,0 +1,28 @@
+
+body{
+    background-color: #00e575;
+}
+.ca p{
+    text-align: center;
+    padding-top: 2%;
+    padding-bottom: 1%;
+    font-size: 50%;
+}
+.ca{
+        color: #29434e;
+        font-size: 15px;
+        background-color: #819ca9;
+        margin-right: 85%;
+        
+}
+.ca1{
+    background-color: #29434e;
+    padding-bottom: 1%;
+}
+.ca1 ul, li, a{
+    color: #00b147;
+}
+.ca1 ul{
+    text-align: center;
+}
+

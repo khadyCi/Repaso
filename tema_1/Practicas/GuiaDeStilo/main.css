@@ -1,0 +1,23 @@
+body{
+    background-color: #bdbdbd;
+}
+.c1{
+    color: #9a67ea;
+    background-color: #0000ba;
+}
+
+ul.horizontal{
+    margin:0;
+    padding:0;
+    }
+   /*
+    Luego haga los cambios para que sus elementos de la lista se muestren de manera horizontal:
+    */
+    
+ul.horizontal li{
+    display:block;
+    float:left;
+    padding:0 10px;
+    }
+    
+       

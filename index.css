@@ -1,0 +1,11 @@
+body{
+    background-color: #00e575;
+    
+}
+.div_1{
+    background-color: #819CA9;
+    border-right: 25%;
+}
+.div_1 ul, ol, a{
+    color: #29434e;
+}
